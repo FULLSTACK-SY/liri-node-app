@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/FULLSTACK-SY/liri-node-app#readme",
   "dependencies": {
-    "bandsintown": "^1.0.1"
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^7.0.0",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.1.1",
+    "omdbapi": "^3.0.0",
+    "spotify": "^0.3.0"
   }
 }
